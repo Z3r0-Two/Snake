@@ -1,2 +1,2 @@
 # Snake
-Snake on python 
+Snake in python 
